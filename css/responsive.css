@@ -1,0 +1,555 @@
+/**** Extra Wide device container fixed ****/
+@media(min-width: 1601px) and (max-width: 5500px) {
+/* section {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+body {
+    background: #ffffff;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0 0 30px 11px #0000002b;
+} */
+.swiper.swiper--constrution .swiper-button-prev, .swiper.swiper--constrution .swiper-button-next {
+    top: 40% !important;
+}
+
+
+}
+
+
+
+/******/
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (max-width: 1200px) {
+body .swiper--constrution h1 {
+    font-size: 40px;
+    line-height: normal;
+}
+.hmu-btn-container .hmu-btn:last-child {
+    margin-top: 20px;
+}
+.mission_vision_page .about-items p {
+    margin-top: 0 !important;
+}
+
+
+
+}
+
+
+/* Large devices (desktops, 992px and up) */
+
+@media (max-width: 992px) {
+    .slider-section .carousel-indicators {
+        justify-content: center;
+    }
+    .slider-section .carousel-caption h2 { font-size: 42px; }
+    .header-main { align-items: flex-start; }
+    .navbar-collapse { width: 100%; padding-top: 50px; }
+    .header-main { position: relative; display: block }
+    .logo { position: absolute; top: 0px; width: 180px; z-index: 99; }
+    .main-menu { display: block; }
+    .main-menu .navbar { padding-left: 0; padding-right: 0; }
+    .main-menu .navbar-nav .nav-link {
+        padding: 10px 0;
+        border-bottom: solid 1px #e31e25;
+    }
+    .navbar-light .navbar-toggler-icon {
+        filter: invert(1);
+    }
+    .navbar-collapse {
+        padding-top: 20px;
+    }
+    .carousel.slide .carousel-control-next, .carousel.slide .carousel-control-prev {
+        width: 15%;
+    }
+    .teams_columns {
+        column-gap: 20px;
+        row-gap: 20px;
+        justify-content: center;
+        width: 100%;
+    }
+    .member_item {
+        width: 48%;
+    }
+    .certificates_boxes {
+        width: 100%;
+    }
+    .certificates_box_item {
+        width: 100%;
+        padding: 0;
+    }
+    .certificates_box_item.lightblue_color_bg {
+        padding: 50px;
+    }
+    .certificate_img img {
+        height: auto;
+    }
+    .nav-item.dropdown {
+        padding-right: 0;
+    }
+    header.active_responsive {
+        background: #454242;
+    }   
+    .main-menu .navbar-nav .nav-item:last-child .nav-link {
+        border-bottom: none;
+    }
+    body .swiper--constrution h1 {
+        font-size: 35px;
+        line-height: normal;
+    }
+    .hmu-heading--divider-t3 .hmu-heading__title:after {
+        height: 3px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .hmu-btn {
+        padding: 12px 15px;
+        font-size: 12px;
+    }
+    .hmu-btn--underline {
+        font-size: 12px;
+    }
+    .down_header_wrap {
+        transform: none;
+        position: relative;
+    }
+    .navbar.navbar-expand-lg.navbar-light {
+        background: transparent;
+        box-shadow: none;
+    }
+    .team-content-top h3 {
+        font-size: 25px;
+    }
+    
+    
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (max-width: 768px) {
+.slider-section .carousel-indicators {
+    justify-content: center;
+}
+.welcome_text h2 {
+    font-size: 30px;
+}  
+.wide_logo {
+    row-gap: 30px;
+}
+.bottom_right_red_b {
+    width: 25px;
+}
+.director_message_text p {
+    padding-left: 0;
+}
+.founder_section_black_right_b {
+    width: 35%;
+}
+.mission_content {
+    padding: 7%;
+}
+.Vison_img img {
+    object-position: right;
+}
+.vision_content {
+    padding: 7%;
+}
+.values_img {
+    padding: 0;
+}
+.security_grd_selection ul {
+    padding: 0;
+}
+.our-services_list {
+    padding: 20px 5%;
+}
+.training .about_skylark_content {
+    padding-left: 0;
+    padding: 0 18%;
+}
+.training .about_skylark_content:before {
+    bottom: -70px;
+    right: 0;
+    height: 97%;
+}
+.training .about_skylark_content h5 {
+    padding: 140px 0 20px;
+}
+.about-skylark.guarding .about_skylark_content h5 {
+    padding: 0;
+}
+.industry_segment .values_title {
+    text-align: center;
+}
+.industry_logo {
+    padding: 0;
+    margin-bottom: 20px;
+}
+.clients_logo ul li {
+    padding: 0 20px;
+}
+.footer-main-block .widget {
+    margin-top: 20px;
+}
+.our-service {
+    padding: 50px 0;
+}
+.contact-us-banner, .career_page {
+    border-bottom: solid 20px #000;
+}
+.carousel-inner {
+    border-bottom: solid 20px #000;
+}
+.slogan-area .text, .slogan-area .pull-right {
+    width: 100%;
+    text-align: center;
+}
+.slogan-area .pull-right a {
+    text-align: center;
+    margin: 20px auto 0;
+}
+.mission_content h4 {
+    line-height: normal;
+    font-size: 25px;
+    text-align: left;
+}
+.about-skylark.guarding .about_skylark_content h5 {
+    font-size: 25px;
+    line-height: normal;
+    text-align: justify;
+}
+.QRT.traffic h2 {
+    padding-right: 0;
+}
+.section-padding {
+    padding: 0px 0 50px;
+}
+.contact-form-box {
+    margin-top: 20px;
+}
+
+
+
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (max-width: 576px) {
+    
+.welcome_text {
+    padding: 20px;
+}    
+.welcome_text h2 {
+    font-size: 20px;
+}
+.Section2_text {
+    padding: 50px 15px;
+}
+.meet_our_team {
+    padding: 50px 15px;
+}
+.member_item {
+    width: 100%;
+}
+.services_icon_section {
+    padding: 50px 0;
+}
+.services_item .services_descriptions {
+    padding-right: 10px;
+}
+.why_choose_us {
+    padding: 50px 15px;
+}
+.circle_icon_section .services_item .services_descriptions {
+    padding: 0 0 0 10px;
+}
+.footer-block .footer-link {
+    margin-bottom: 20px;
+}
+.logo-footer ul li {
+    text-align: center;
+}
+.bottom_right_red_b, .founder_section_black_right_b {
+    display: none;
+}
+.founder_message .row {
+    flex-direction: column-reverse;
+}
+.founder_image {
+    padding-top: 0;
+    padding-bottom: 30px;
+}
+.security_img img {
+    padding: 0 30px;
+}
+.vision_content {
+    padding: 15px;
+}
+.vision_section .row {
+    flex-direction: column-reverse;
+}
+.about_skylark_content {
+    padding: 0 0 20px;
+}
+.about-skylark .row .col-lg-8 .row {
+    flex-direction: column-reverse;
+}
+.about-skylark .row .row {
+    height: auto;
+}
+.values_title h2 {  
+    padding-left: 15px;
+}
+.our-services_list ul li a {
+    padding: 10px 0;
+    font-size: 18px;
+}
+.our-services_list ul li:before {
+    top: 13px;
+    width: 15px;
+    height: 21px;
+}
+.our-services_list ul li {
+    padding-left: 28px;
+}
+.values_title h2 {
+    font-size: 30px;
+}
+.vision_black_bg:before {
+    display: none;
+}
+.vision_black_bg {
+    padding: 5% 2%;
+}
+.vision_content h4 {
+    font-size: 18px;
+    line-height: 25px;
+}
+.about_skylark_content h5 {
+    font-size: 18px;
+}
+.security_guidelines h2 {
+    font-size: 25px;
+    line-height: normal;
+}
+.security_guidelines p {
+    font-size: 18px;
+}
+.security_guidelines .card-link {
+    font-size: 15px;
+}
+.security_grd_selection h2 {
+    font-size: 25px;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+.security_grd_selection p {
+    font-size: 18px;
+}
+.security_grd_selection ul li, .security_grd_selection.security_complainces ul li {
+    font-size: 13px;
+    line-height: normal;
+}
+.security_grd_selection ul li:before {
+    top: 10px;
+    width: 15px;
+    height: 13px;
+}
+.security_grd_selection ul li:before {
+    top: 3px;
+}
+.security_grd_selection.investigation_section p, .security_grd_selection.security_complainces p {
+    font-size: 14px;
+    line-height: normal;
+    padding: 0;
+    font-weight: normal;
+    text-align: center;
+}
+.investigation_section.security_grd_selection h2 {
+    margin-bottom: 20px;
+}
+.training .about_skylark_content h2 {
+    font-size: 25px;
+}
+.training .about_skylark_content:before {
+    bottom: -70px;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    background: #f2f4f5;
+}
+.training .about_skylark_content {
+    padding: 0 15px 30px;
+}
+.training .about_skylark_content h5 {
+    padding: 40px 0 0;
+}
+.about-skylark.guarding .about_skylark_content {
+    padding: 15px 15px 30px;
+}
+.about-skylark.guarding .about_skylark_content h5 {
+    font-size: 18px;
+    line-height: normal;
+}
+.about-skylark.guarding .about_skylark_content h2 {
+    margin-bottom: 20px;
+    font-size: 25px;
+    line-height: normal;
+}
+.mission_section.security_consultancy {
+    padding-top: 50px;
+}
+.mission_content h2 {
+    font-size: 25px;
+}
+.mission_content h4 {
+    line-height: normal;
+    font-size: 18px;
+}
+.about-skylark.guarding .row {
+    flex-direction: column-reverse;
+}
+.guarding.QRT.control_room .row {
+    flex-direction: column;
+}
+.QRT.traffic .row {
+    flex-direction: column;
+}
+.logos_title h4 {
+    font-size: 25px;
+    margin-bottom: 40px;
+    line-height: normal;
+}
+.industry_segment .values_title {
+    padding-right: 0;
+}
+.social-icon ul {
+    justify-content: center;
+  }
+  .slider-section .carousel-caption h2 { font-size: 24px; margin-bottom: 10px; }
+  .slider-section .carousel-caption h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.slider-section .carousel-caption p {
+    line-height: normal;
+    font-size: 15px;
+}
+.slider-section .carousel-indicators {
+    display: none;
+}
+.slider-read-more {
+    margin-top: 0px;
+}
+.short_whoare {
+    margin-bottom: 40px;
+}
+.who-we-are_img {
+    margin-bottom: 20px;
+}
+.who-we-are_img img {
+    height: auto;
+}
+.contact-us_address {
+    padding: 50px 15px;
+}
+.slogan-area.get_in_touch .col-md-12 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.button.pull-right {
+    text-align: center;
+    margin: 0 auto;
+}
+.slogan-area .text {
+    text-align: center;
+    width: 100%;
+}
+.slogan-area .text h2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.slider-section .carousel-item img {
+    height: 300px;
+}
+.about-us {
+    padding: 50px 0;
+}
+.aboutimg {
+    margin-bottom: 20px;
+}
+.current_opening p {
+    text-align: center;
+}
+.footer_new_version .footer_title h3 {
+    margin-bottom: 20px;
+}
+.footer_new_version .footer_content {
+    margin-top: 20px;
+}
+body .swiper--constrution h1 {
+    font-size: 15px;
+}
+body .swiper--constrution .swiper-slide>div {
+    height: 40vh;
+}
+.swiper-button-prev, .swiper-button-next {
+    display: none;
+}
+.slogan-area .pull-right a {
+    margin: 0px auto 0;
+}
+.slogan-area {
+    padding: 10px 0 20px;
+}
+.contact-form-box {
+    padding: 0 15px !important;
+}
+.contact-us-area form {
+    padding: 20px;
+}
+.about-us-area h2 {
+    font-size: 30px;
+}
+.management_team_page .thumb {
+    margin-bottom: 20px;
+}
+.hmu-banner__content {
+    width: 100%;
+    padding: 10px;
+}
+.hmu-heading--business h4 {
+    font-size: 12px;
+    line-height: normal;
+}
+.hmu-heading.hmu-heading--business {
+    width: 50%;
+}
+.hmu-heading--divider-t3 .hmu-heading__title:after {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media  screen and (max-width: 375px) and (max-width: 320px) {
+
+
+}
